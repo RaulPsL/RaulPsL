@@ -1,41 +1,138 @@
-<h1 align="center">Hi 👋, I'm Raul Ledezma PAredes</h1>
-<h3 align="center">Backend Developer | APIs REST | Microservices | DevOps</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raulpsl&label=Profile%20views&color=0e75b6&style=flat" alt="raulpsl" /> </p>
+# Raul Ledezma Paredes
+### Backend Developer — Microservices & API Architecture
 
-- 🔭 I’m currently working on **Backend development with Python (FastAPI), Java (Spring Boot), and Node.js - Design, consumption, and integration of REST APIs - Basic DevOps: Docker, CI/CD, Docker (microservices)**
+[![Profile Views](https://komarev.com/ghpvc/?username=raulpsl&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/RaulPsL)
+[![Email](https://img.shields.io/badge/Email-raulparedesld%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raulparedesld@gmail.com)
 
-- 🌱 I’m currently learning **Spring Boot, Redis, Kafka and Typescript with Hono.js**
+</div>
 
-- 👯 I’m looking to collaborate on [projects of fullstak, microservices](https://github.com/olaechea79/SGP-frontend https://github.com/olaechea79/SGP-frontend - https://github.com/olaechea79/SGP-frontend - https://github.com/JatunCode/Reserva_de_aulas - https://github.com/SumajCode/MicroService-Content)
+---
 
-- 📫 How to reach me **raulparedesld@gmail.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Backend developer with experience in **Python, Java, and JavaScript/TypeScript**, specialized in **REST APIs, microservices, and automation**. Focused on building scalable systems, optimizing processes, and maintaining clean, maintainable code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulpsl&show_icons=true&locale=en&layout=compact" alt="raulpsl" /></p>
+## 🚀 Highlights
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpsl&show_icons=true&locale=en" alt="raulpsl" /></p>
+### Backend / Fullstack Development
+- API and architecture development with **Next.js, NestJS, Laravel, Express**
+- **API Gateway** implementation for centralized microservices management
+- Performance optimization results:
+  - ↓ 30% frontend-backend latency
+  - ↓ 25% response times
+  - ↑ 37% server efficiency
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulpsl&" alt="raulpsl" /></p>
+### Automation & Scripting
+- Python/PHP scripts for:
+  - Bulk user migration and generation (1,000+ records, **90% faster**)
+  - Duplicate data cleanup and deduplication
+- Web scraping pipelines processing **10,000+ monthly records**
 
+---
 
-<!--
-**RaulPsL/RaulPsL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Other**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+### 🔬 [University Admissions Platform](https://github.com/olaechea79/SGP-frontend)
+Full-stack scalable architecture for university admissions management. Microservices-based backend with centralized API Gateway.
+
+### 📅 [Classroom Reservation System](https://github.com/JatunCode/Reserva_de_aulas)
+Room scheduling and reservation system for academic environments.
+
+### 📚 [Content Microservice](https://github.com/SumajCode/MicroService-Content)
+Standalone content microservice following clean architecture principles.
+
+---
+
+## 🎬 Project Demos
+
+> 📌 *Short demo videos coming soon — stay tuned!*
+
+<!-- PROJECT DEMO TEMPLATE
+To add a video demo, upload a GIF or MP4 preview to your repo and embed it like this:
+
+### Project Name
+[![Demo](https://img.shields.io/badge/▶_Watch_Demo-0e75b6?style=for-the-badge)](YOUR_VIDEO_LINK)
+
+Or embed a GIF directly:
+![Project Demo](./assets/demos/project-name-demo.gif)
 -->
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Systems Engineering** — UMSS *(Universidad Mayor de San Simón)*
+- 📜 **Python Essentials** — Cisco Networking Academy
+- 📜 **JavaScript Essentials** — Cisco Networking Academy
+
+---
+
+## 🌐 Languages
+
+- 🇪🇸 **Spanish** — Native
+- 🇬🇧 **English** — Intermediate
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raulpsl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpsl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaborating on backend systems, microservices, and interesting open-source projects.*
+
+[![Email](https://img.shields.io/badge/Get_In_Touch-raulparedesld%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulparedesld@gmail.com)
+
+</div>
