@@ -89,16 +89,36 @@ Standalone content microservice following clean architecture principles.
 
 ## 🎬 Project Demos
 
-> 📌 *Short demo videos coming soon — stay tuned!*
+<div align="center">
 
-<!-- PROJECT DEMO TEMPLATE
-To add a video demo, upload a GIF or MP4 preview to your repo and embed it like this:
+### University Admissions Platform
+<a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" width="700" alt="University Admissions Platform Demo" />
+</a>
 
-### Project Name
-[![Demo](https://img.shields.io/badge/▶_Watch_Demo-0e75b6?style=for-the-badge)](YOUR_VIDEO_LINK)
+<br/><br/>
 
-Or embed a GIF directly:
-![Project Demo](./assets/demos/project-name-demo.gif)
+### Classroom Reservation System
+<a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" width="700" alt="Classroom Reservation System Demo" />
+</a>
+
+<br/><br/>
+
+### Content Microservice
+<a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" width="700" alt="Content Microservice Demo" />
+</a>
+
+</div>
+
+<!--
+CÓMO AGREGAR TUS VIDEOS:
+1. Sube tu video a YouTube (puede ser "No listado" / Unlisted si no quieres que sea público en tu canal).
+2. Copia el ID del video de la URL, ej: https://www.youtube.com/watch?v=ABC123XYZ -> el ID es "ABC123XYZ"
+3. Reemplaza YOUR_YOUTUBE_URL_HERE por la URL completa: https://www.youtube.com/watch?v=ABC123XYZ
+4. Reemplaza YOUR_VIDEO_ID_HERE (aparece dos veces por proyecto) por el mismo ID: ABC123XYZ
+5. Ajusta el atributo width="700" si quieres que se vean más grandes o más pequeñas (recomendado entre 600-800 para que no se vea pixelado).
 -->
 
 ---
