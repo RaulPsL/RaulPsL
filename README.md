@@ -92,14 +92,14 @@ Standalone content microservice following clean architecture principles.
 <div align="center">
 
 ### University Admissions Platform
-<a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
+<a href="[YOUR_YOUTUBE_URL_HERE](https://youtu.be/CCdRCtSp9XI)" target="_blank">
   <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" width="700" alt="University Admissions Platform Demo" />
 </a>
 
 <br/><br/>
 
-### Classroom Reservation System
-<a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
+### API Compiler System whit decorators and Best Practices
+<a href="[YOUR_YOUTUBE_URL_HERE](https://youtu.be/7BmSB707uVY)" target="_blank">
   <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" width="700" alt="Classroom Reservation System Demo" />
 </a>
 
@@ -126,8 +126,8 @@ CÓMO AGREGAR TUS VIDEOS:
 ## 🎓 Education & Certifications
 
 - 🎓 **Systems Engineering** — UMSS *(Universidad Mayor de San Simón)*
-- 📜 **Python Essentials** — Cisco Networking Academy
-- 📜 **JavaScript Essentials** — Cisco Networking Academy
+- 📜 **Python Advance** — Cisco Networking Academy
+- 📜 **JavaScript Advance** — Cisco Networking Academy
 
 ---
 
