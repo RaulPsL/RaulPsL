@@ -93,14 +93,14 @@ Standalone content microservice following clean architecture principles.
 
 ### University Admissions Platform
 <a href="[YOUR_YOUTUBE_URL_HERE](https://youtu.be/CCdRCtSp9XI)" target="_blank">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" width="700" alt="University Admissions Platform Demo" />
+  <img src="https://img.youtube.com/vi/CCdRCtSp9XI/maxresdefault.jpg" width="700" alt="University Admissions Platform Demo" />
 </a>
 
 <br/><br/>
 
 ### API Compiler System whit decorators and Best Practices
 <a href="[YOUR_YOUTUBE_URL_HERE](https://youtu.be/7BmSB707uVY)" target="_blank">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" width="700" alt="Classroom Reservation System Demo" />
+  <img src="https://img.youtube.com/vi/7BmSB707uVY/maxresdefault.jpg" width="700" alt="Classroom Reservation System Demo" />
 </a>
 
 <br/><br/>
